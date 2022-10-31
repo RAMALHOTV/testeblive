@@ -61,9 +61,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/140815
 #EXTINF:-1 tvg-id="Agro +" tvg-name="Agro+ SD" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",Agro+ SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/162556
-#EXTINF:-1 tvg-id="" tvg-name="Alexandre Pires e Seu Jorge [Live Irmãos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Alexandre Pires e Seu Jorge [Live Irmãos]
+#EXTINF:-1 tvg-id="" tvg-name="Alexandre Pires e Seu Jorge [Live Irmãos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Alexandre Pires e Seu Jorge [Live Irmãos]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136185
-#EXTINF:-1 tvg-id="" tvg-name="Alexandre Pires [Live do Nego Véio]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Alexandre Pires [Live do Nego Véio]
+#EXTINF:-1 tvg-id="" tvg-name="Alexandre Pires [Live do Nego Véio]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Alexandre Pires [Live do Nego Véio]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136186
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AMC FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136797
@@ -91,7 +91,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147435
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD" tvg-logo="https://i.imgur.com/GCdfTj9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Animal Planet SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83523
-#EXTINF:-1 tvg-id="" tvg-name="Anos 2000" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Anos 2000
+#EXTINF:-1 tvg-id="" tvg-name="Anos 2000" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Rádios",Anos 2000
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/141040
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 FHD" tvg-logo="https://i.imgur.com/OE3PHUN.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",Arte 1 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147358
@@ -117,7 +117,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147439
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",AXN SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83524
-#EXTINF:-1 tvg-id="" tvg-name="B&M + Wesley Safadão [Live 19-09-2020]" tvg-logo="https://i.imgur.com/4EvcN4d.jpg" group-title="24 Horas | Lives/Shows",B&M + Wesley Safadão [Live 19-09-2020]
+#EXTINF:-1 tvg-id="" tvg-name="B&M + Wesley Safadão [Live 19-09-2020]" tvg-logo="https://i.imgur.com/4EvcN4d.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",B&M + Wesley Safadão [Live 19-09-2020]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/133622
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV HD" tvg-logo="https://i.imgur.com/gF0FhxP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Baby TV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/162947
@@ -175,7 +175,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147447
 #EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports SD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",BAND Sports SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83529
-#EXTINF:-1 tvg-id="" tvg-name="Batman - Trilogia" tvg-logo="https://i.imgur.com/sZllTYP.png" group-title="24 Horas | Premium",Batman - Trilogia
+#EXTINF:-1 tvg-id="" tvg-name="Batman - Trilogia" tvg-logo="https://i.imgur.com/sZllTYP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Batman - Trilogia
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/133415
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",BIS FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147363
@@ -189,15 +189,15 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147450
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",BIS SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83530
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 16-05-2020]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="24 Horas | Lives/Shows",Bruno e Marrone [Live 16-05-2020]
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 16-05-2020]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Bruno e Marrone [Live 16-05-2020]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/133620
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 3 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="24 Horas | Lives/Shows",Bruno e Marrone [Live 3 sem propagandas]
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 3 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Bruno e Marrone [Live 3 sem propagandas]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/133624
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 4 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="24 Horas | Lives/Shows",Bruno e Marrone [Live 4 sem propagandas]
+#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 4 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Bruno e Marrone [Live 4 sem propagandas]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/133621
-#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]
+#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/156621
-#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
+#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136196
 #EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal 26 Argentina HD" tvg-logo="https://i.imgur.com/pWtp6gn.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Canal 26 Argentina HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/70449
@@ -433,9 +433,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/151059
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="https://i.imgur.com/ABUmajP.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes PPV",DAZN 04 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83448
-#EXTINF:-1 tvg-id="" tvg-name="DC Comics 01" tvg-logo="https://i.imgur.com/nPn74rm.png" group-title="24 Horas | Premium",DC Comics 01
+#EXTINF:-1 tvg-id="" tvg-name="DC Comics 01" tvg-logo="https://i.imgur.com/nPn74rm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",DC Comics 01
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83876
-#EXTINF:-1 tvg-id="" tvg-name="DC Comics 02" tvg-logo="https://i.imgur.com/nPn74rm.png" group-title="24 Horas | Premium",DC Comics 02
+#EXTINF:-1 tvg-id="" tvg-name="DC Comics 02" tvg-logo="https://i.imgur.com/nPn74rm.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",DC Comics 02
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83885
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD" tvg-logo="https://i.imgur.com/AzFdZL1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",Discovery Channel FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/87316
@@ -545,9 +545,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147520
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel SD" tvg-logo="https://i.imgur.com/rten1Om.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Disney Channel SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83545
-#EXTINF:-1 tvg-id="" tvg-name="Disney Clássico 01" tvg-logo="https://i.imgur.com/x33UaSc.jpg" group-title="24 Horas | Premium",Disney Clássico 01
+#EXTINF:-1 tvg-id="" tvg-name="Disney Clássico 01" tvg-logo="https://i.imgur.com/x33UaSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Disney Clássico 01
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/89549
-#EXTINF:-1 tvg-id="" tvg-name="Disney Clássico 02" tvg-logo="https://i.imgur.com/x33UaSc.jpg" group-title="24 Horas | Premium",Disney Clássico 02
+#EXTINF:-1 tvg-id="" tvg-name="Disney Clássico 02" tvg-logo="https://i.imgur.com/x33UaSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Disney Clássico 02
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/89550
 #EXTINF:-1 tvg-id="" tvg-name="Djing Music TV SD" tvg-logo="https://i.imgur.com/Dq5TRD1.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",Djing Music TV SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/141032
@@ -567,11 +567,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147526
 #EXTINF:-1 tvg-id="E!" tvg-name="E! SD" tvg-logo="https://i.imgur.com/OR1AqdQ.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",E! SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83548
-#EXTINF:-1 tvg-id="" tvg-name="Edmonton CHEDAM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Edmonton CHEDAM
+#EXTINF:-1 tvg-id="" tvg-name="Edmonton CHEDAM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Rádios",Edmonton CHEDAM
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/143730
-#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Eduardo Costa [Aqui em Uberlândia]
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Eduardo Costa [Aqui em Uberlândia]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136588
-#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Especial Dia dos Namorados]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Eduardo Costa [Especial Dia dos Namorados]
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Costa [Especial Dia dos Namorados]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Eduardo Costa [Especial Dia dos Namorados]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136587
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 4K" tvg-logo="https://i.imgur.com/jkoirGZ.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",ESPN 1 4K
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/155420
@@ -1161,9 +1161,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147579
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/mQaS7Ll.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",GNT SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83571
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 01" tvg-logo="https://i.imgur.com/GcYxvpW.png" group-title="24 Horas | Premium",Harry Potter 01
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 01" tvg-logo="https://i.imgur.com/GcYxvpW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Harry Potter 01
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/123176
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 02" tvg-logo="https://i.imgur.com/GcYxvpW.png" group-title="24 Horas | Premium",Harry Potter 02
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 02" tvg-logo="https://i.imgur.com/GcYxvpW.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Harry Potter 02
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/123175
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO 4K" tvg-logo="https://i.imgur.com/Xsy08Sy.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",HBO 4K
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/151050
@@ -1311,13 +1311,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83577
 #EXTINF:-1 tvg-id="SBT" tvg-name="Igreja Mundial Poder de Deus HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/igreja-mundial-do-poder-de-deus-logo-simbolo-4.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Religiosos",Igreja Mundial Poder de Deus HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/169524
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 01" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 01
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 01" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Jogos Mortais 01
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/123177
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 02" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 02
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 02" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Jogos Mortais 02
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/123178
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes - Quadrilogia" tvg-logo="https://i.imgur.com/Wp5FDZV.png" group-title="24 Horas | Premium",Jogos Vorazes - Quadrilogia
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes - Quadrilogia" tvg-logo="https://i.imgur.com/Wp5FDZV.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Jogos Vorazes - Quadrilogia
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/123179
-#EXTINF:-1 tvg-id="" tvg-name="John Wick - Trilogia" tvg-logo="https://i.imgur.com/5PGuphP.png" group-title="24 Horas | Premium",John Wick - Trilogia
+#EXTINF:-1 tvg-id="" tvg-name="John Wick - Trilogia" tvg-logo="https://i.imgur.com/5PGuphP.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",John Wick - Trilogia
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/133418
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News FHD [Alt]" tvg-logo="https://i.imgur.com/tPM7AQT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Jovem Pan News FHD [Alt]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/183592
@@ -1329,13 +1329,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/183591
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News SD" tvg-logo="https://i.imgur.com/tPM7AQT.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Notícias",Jovem Pan News SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147560
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Eduardo Costa [Cabaré]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Leonardo e Eduardo Costa [Cabaré]
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Eduardo Costa [Cabaré]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Leonardo e Eduardo Costa [Cabaré]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136589
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Luiza e Maurílio [Aqui em Uberlândia]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136592
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Zé Felipe [Pai e Filho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Leonardo e Zé Felipe [Pai e Filho]
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo e Zé Felipe [Pai e Filho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Leonardo e Zé Felipe [Pai e Filho]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136590
-#EXTINF:-1 tvg-id="" tvg-name="Leonardo [Canto, Bebo e Choro]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Leonardo [Canto, Bebo e Choro]
+#EXTINF:-1 tvg-id="" tvg-name="Leonardo [Canto, Bebo e Choro]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Leonardo [Canto, Bebo e Choro]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136591
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime FHD" tvg-logo="https://i.imgur.com/696PoZR.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",Lifetime FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/87309
@@ -1353,35 +1353,35 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147488
 #EXTINF:-1 tvg-id="Like" tvg-name="Like HD [Alt]" tvg-logo="https://i.imgur.com/B338cHi.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",Like HD [Alt]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147486
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Maiara e Maraisa [Aqui em Casa 1]
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Aqui em Casa 1]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136201
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Maiara e Maraisa [Aqui em Casa 2]
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui em Casa 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Aqui em Casa 2]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136202
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui na Fazenda]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Maiara e Maraisa [Aqui na Fazenda]
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Aqui na Fazenda]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Aqui na Fazenda]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136198
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Drive-In Na Terra]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Maiara e Maraisa [Drive-In Na Terra]
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Drive-In Na Terra]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Drive-In Na Terra]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136200
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Fun Live]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Maiara e Maraisa [Fun Live]
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Fun Live]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Fun Live]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136199
-#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Maiara e Maraisa [Workshow]
+#EXTINF:-1 tvg-id="" tvg-name="Maiara e Maraisa [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Maiara e Maraisa [Workshow]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136197
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Lado B]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Marilia Mendonça [Lado B]
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Lado B]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Marilia Mendonça [Lado B]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136206
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Live Local]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Marilia Mendonça [Live Local]
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Live Local]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Marilia Mendonça [Live Local]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136205
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Todos os Cantos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Marilia Mendonça [Todos os Cantos]
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Todos os Cantos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Marilia Mendonça [Todos os Cantos]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136204
-#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Marilia Mendonça [Workshow]
+#EXTINF:-1 tvg-id="" tvg-name="Marilia Mendonça [Workshow]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Marilia Mendonça [Workshow]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136203
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 01" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 01
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 01" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Marvel 01
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83171
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 02" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 02
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 02" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Marvel 02
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83184
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 03" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 03
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 03" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Marvel 03
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/87696
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 04" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 04
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 04" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Marvel 04
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/89551
-#EXTINF:-1 tvg-id="" tvg-name="Maze Runner - Trilogia" tvg-logo="https://i.imgur.com/kpgLT2u.png" group-title="24 Horas | Premium",Maze Runner - Trilogia
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner - Trilogia" tvg-logo="https://i.imgur.com/kpgLT2u.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",Maze Runner - Trilogia
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/123180
 #EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix 4K" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | 4K - H265",MegaPix 4K
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/151045
@@ -1491,9 +1491,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147622
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon SD" tvg-logo="https://i.imgur.com/Sxm1XGL.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Infantil",Nickelodeon SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83595
-#EXTINF:-1 tvg-id="" tvg-name="O Hobbit - Trilogia" tvg-logo="https://i.imgur.com/bQuLAch.png" group-title="24 Horas | Premium",O Hobbit - Trilogia
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit - Trilogia" tvg-logo="https://i.imgur.com/bQuLAch.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",O Hobbit - Trilogia
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/123181
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Aneis - Trilogia" tvg-logo="https://i.imgur.com/uwOcud9.png" group-title="24 Horas | Premium",O Senhor dos Aneis - Trilogia
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Aneis - Trilogia" tvg-logo="https://i.imgur.com/uwOcud9.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",O Senhor dos Aneis - Trilogia
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/123182
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/hwUUUUf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes",OFF FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/139108
@@ -1629,9 +1629,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/169513
 #EXTINF:-1 tvg-id="Shoptime" tvg-name="Prime Esportes 3 HD" tvg-logo="https://i.imgur.com/LcsbA2X.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Esportes PPV",Prime Esportes 3 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/195182
-#EXTINF:-1 tvg-id="" tvg-name="Raça Negra e Alexandre Pires [Live Gigantes do Samba]" tvg-logo="https://i.imgur.com/14Np9Lb.png" group-title="24 Horas | Lives/Shows",Raça Negra e Alexandre Pires [Live Gigantes do Samba]
+#EXTINF:-1 tvg-id="" tvg-name="Raça Negra e Alexandre Pires [Live Gigantes do Samba]" tvg-logo="https://i.imgur.com/14Np9Lb.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Raça Negra e Alexandre Pires [Live Gigantes do Samba]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/134985
-#EXTINF:-1 tvg-id="" tvg-name="Raça Negra e Amigos em Casa [Live 21-04-2020]" tvg-logo="https://i.imgur.com/O4SE5h7.jpg" group-title="24 Horas | Lives/Shows",Raça Negra e Amigos em Casa [Live 21-04-2020]
+#EXTINF:-1 tvg-id="" tvg-name="Raça Negra e Amigos em Casa [Live 21-04-2020]" tvg-logo="https://i.imgur.com/O4SE5h7.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Raça Negra e Amigos em Casa [Live 21-04-2020]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/134986
 #EXTINF:-1 tvg-id="RBI" tvg-name="RBI FHD [Alt]" tvg-logo="https://i.imgur.com/OnFYQM6.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Abertos",RBI FHD [Alt]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147649
@@ -1945,9 +1945,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147653
 #EXTINF:-1 tvg-id="AE" tvg-name="SyFy SD" tvg-logo="https://i.imgur.com/oA5rBh3.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",SyFy SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83627
-#EXTINF:-1 tvg-id="" tvg-name="Só Pra Contrariar [Especial 30 Anos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Só Pra Contrariar [Especial 30 Anos]
+#EXTINF:-1 tvg-id="" tvg-name="Só Pra Contrariar [Especial 30 Anos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Só Pra Contrariar [Especial 30 Anos]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136184
-#EXTINF:-1 tvg-id="" tvg-name="Só Pra Contrariar [Session 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Só Pra Contrariar [Session 2]
+#EXTINF:-1 tvg-id="" tvg-name="Só Pra Contrariar [Session 2]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Só Pra Contrariar [Session 2]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136183
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS FHD" tvg-logo="https://i.imgur.com/CUqgnml.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Filmes e Séries",TBS FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/139105
@@ -2117,9 +2117,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/163284
 #EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="Travel Box Brazil SD" tvg-logo="https://i.imgur.com/0UlVhEJ.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",Travel Box Brazil SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/162758
-#EXTINF:-1 tvg-id="" tvg-name="Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]
+#EXTINF:-1 tvg-id="" tvg-name="Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136594
-#EXTINF:-1 tvg-id="" tvg-name="Trio Parada Dura [A Última Live - Especial Parrerito]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Trio Parada Dura [A Última Live - Especial Parrerito]
+#EXTINF:-1 tvg-id="" tvg-name="Trio Parada Dura [A Última Live - Especial Parrerito]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",Trio Parada Dura [A Última Live - Especial Parrerito]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136595
 #EXTINF:-1 tvg-id="truTV" tvg-name="TruTV FHD" tvg-logo="https://i.imgur.com/A3sP35G.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Documentários",TruTV FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147722
@@ -2251,7 +2251,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83664
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1 Itália FHD" tvg-logo="https://i.imgur.com/3cVeYH2.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",VH1 Itália FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136711
-#EXTINF:-1 tvg-id="" tvg-name="VillaMix em Casa [Só Modão]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",VillaMix em Casa [Só Modão]
+#EXTINF:-1 tvg-id="" tvg-name="VillaMix em Casa [Só Modão]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Lives/Shows",VillaMix em Casa [Só Modão]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/136593
 #EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD [Alt]" tvg-logo="https://i.imgur.com/I5wgAQZ.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",Viva FHD [Alt]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/147744
@@ -2287,7 +2287,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/142028
 #EXTINF:-1 tvg-id="Woohoo" tvg-name="WooHoo SD" tvg-logo="https://i.imgur.com/Iz7I2pe.png" group-title=" [COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]Canais | Variedades",WooHoo SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/83661
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 01" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="24 Horas | Premium",X-Men 01
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 01" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",X-Men 01
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/133416
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 02" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="24 Horas | Premium",X-Men 02
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 02" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="[COLOR turquoise][B]RamalhoIPTV [/B][/COLOR]24 Horas | Premium",X-Men 02
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=60000;url=http://srv.cldplay.in:80/9022genesio/y73339kw/133417
